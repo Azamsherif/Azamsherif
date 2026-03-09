@@ -81,26 +81,28 @@ with clean code and maintainable architecture.
 - 🐳 Familiar with **Docker** and modern development workflows
 
 ---
-
 ## 🛠 Tech Arsenal
 
-<div align="center">
-
 ### Backend
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express"/>
+</p>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
+</p>
 
 ### Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-<img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,linux" />
-
-</div>
-
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,linux"/>
+</p>
 ---
 
 ## 📊 GitHub Analytics
