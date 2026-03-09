@@ -25,47 +25,7 @@
 ## 👨‍💻 About Me
 
 ```csharp
-public class MohamedSherif
-{
-    public string FullName => "Mohamed Sherif Kamel Hassan";
-    public string Title => "Junior Full-Stack .NET Developer";
-    public string Location => "Qusiya, Assiut, Egypt";
-    public string Education => "DEPI Full-Stack .NET Track";
 
-    public string[] Backend =>
-    {
-        "ASP.NET Core MVC",
-        "ASP.NET Core Web API",
-        "Entity Framework Core",
-        "LINQ",
-        "RESTful APIs",
-        "JWT Authentication",
-        "Identity Framework"
-    };
-
-    public string[] Frontend =>
-    {
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "Bootstrap 5",
-        "Responsive Design",
-        "AJAX / Fetch API"
-    };
-
-    public string[] DatabaseAndTools =>
-    {
-        "SQL Server",
-        "Stored Procedures",
-        "Git & GitHub",
-        "Docker",
-        "Clean Architecture",
-        "SOLID Principles"
-    };
-
-    public string Mission()
-        => "Build scalable, clean, and user-focused web applications.";
-}
 ```
 
 <p>
