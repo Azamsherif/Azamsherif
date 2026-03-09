@@ -1,218 +1,133 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0B0F19,25:111827,55:6D28D9,80:06B6D4,100:EC4899&text=Mohamed%20Sherif&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Junior%20Full-Stack%20.NET%20Developer&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0B0F19,25:111827,55:6D28D9,80:06B6D4,100:EC4899&text=Mohamed%20Sherif&fontSize=40&fontColor=ffffff&desc=Full%20Stack%20.NET%20Developer&descAlignY=60&animation=fadeIn"/>
 
 <br/>
 
 <a href="mailto:mohamedsherif21101@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://github.com/Azamsherif">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/your-linkedin-url">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Web+API+%7C+EF+Core+%7C+SQL+Server;Clean+Architecture+%7C+SOLID+Principles;Always+Building+%2B+Always+Learning" />
-
-</div>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-22c55e?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```csharp
 public class MohamedSherif
 {
-    public string FullName => "Mohamed Sherif Kamel Hassan";
-    public string Title => "Junior Full-Stack .NET Developer";
-    public string Location => "Qusiya, Assiut, Egypt";
-    public string Education => "DEPI Full-Stack .NET Track";
+    public string Name => "Mohamed Sherif";
+    public string Role => "Junior Full Stack .NET Developer";
+    public string Location => "Assiut, Egypt";
 
-    public string[] Backend =>
+    public string[] Skills =>
     {
-        "ASP.NET Core MVC",
-        "ASP.NET Core Web API",
+        "ASP.NET Core",
+        "C#",
         "Entity Framework Core",
-        "LINQ",
-        "RESTful APIs",
-        "JWT Authentication",
-        "Identity Framework"
-    };
-
-    public string[] Frontend =>
-    {
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "Bootstrap 5",
-        "Responsive Design",
-        "AJAX / Fetch API"
-    };
-
-    public string[] DatabaseAndTools =>
-    {
         "SQL Server",
-        "Stored Procedures",
-        "Git & GitHub",
-        "Docker",
-        "Clean Architecture",
-        "SOLID Principles"
+        "JavaScript",
+        "React",
+        "Bootstrap",
+        "Docker"
     };
 
     public string Mission()
-        => "Build scalable, clean, and user-focused web applications.";
+    {
+        return "Building scalable and clean web applications.";
+    }
 }
 ```
 
-<p>
-Motivated Full-Stack .NET Developer with a solid foundation in building modern web applications,
-REST APIs, and database-driven systems. I enjoy turning ideas into practical, scalable solutions
-with clean code and maintainable architecture.
-</p>
+I’m a passionate **Full Stack .NET Developer** focused on building scalable web applications using:
 
-- 🚀 Focused on backend development with **ASP.NET Core**
-- 🧠 Strong interest in **Clean Code**, **SOLID**, and scalable design
-- 🗄 Comfortable with **SQL Server**, schema design, and efficient queries
-- 🎨 Able to build responsive interfaces with **HTML, CSS, JavaScript, Bootstrap**
-- 🐳 Familiar with **Docker** and modern development workflows
+- ASP.NET Core
+- Web API
+- Entity Framework Core
+- SQL Server
+- JavaScript & React
 
 ---
 
-## 🛠 Tech Arsenal
-
-<div align="center">
+# 🛠 Tech Arsenal
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express" />
+
+<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs"/>
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
 
 ### Database
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-<img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,linux" />
 
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Azamsherif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=22D3EE&text_color=C9D1D9" />
-
-<img height="200" src="https://streak-stats.demolab.com?user=Azamsherif&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=EC4899&currStreakLabel=22D3EE" />
-
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamsherif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=C9D1D9" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman"/>
 
 ---
 
-## 📈 Contribution Activity
+# 📊 GitHub Analytics
 
-<div align="center">
+<p>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Azamsherif&bg_color=0d1117&color=22d3ee&line=06b6d4&point=ec4899&area=true&hide_border=true" />
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=Azamsherif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=22D3EE&text_color=C9D1D9"/>
 
-</div>
+<img height="200" src="https://streak-stats.demolab.com?user=Azamsherif&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=EC4899&currStreakLabel=22D3EE"/>
 
----
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamsherif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=C9D1D9"/>
 
-## 🚀 Featured Projects
-
-### 🎓 Learning Management System
-Comprehensive e-learning platform built with **ASP.NET Core MVC** to manage courses, instructors, enrollment, and student progress.
-
-**Highlights**
-- Role-based admin dashboard
-- Course and content management
-- Student progress tracking
-- Clean MVC architecture
-- EF Core + LINQ + SQL Server
-- Responsive UI with Razor Views, Bootstrap, and JavaScript
+</p>
 
 ---
 
-### 🖨 Almadina Printing Press
-Full-stack business web application built with **React.js**, **Node.js**, and **MongoDB**.
+# 📈 Contribution Graph
 
-**Features**
-- Product portfolio and gallery
-- Admin dashboard with CRUD operations
-- Image upload and management
-- Contact form and message handling
-- Smooth UI and responsive layout
-- RESTful API communication
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Azamsherif&bg_color=0d1117&color=22d3ee&line=06b6d4&point=ec4899&area=true&hide_border=true"/>
 
 ---
 
-### 🗃 Database Design & Architecture
-Database design work focused on building a scalable schema for a freelance-platform-style system.
+# 🚀 Projects
 
-**Highlights**
-- ERD modeling
-- Relational schema design
-- Normalization (1NF, 2NF, 3NF)
-- SQL Server implementation
-- T-SQL queries and stored procedures
-- Data integrity and performance tuning
+### Learning Management System
+ASP.NET Core MVC platform for managing courses, students and instructors.
 
----
+### Printing Press Web App
+Full stack web application built with React + Node.js.
 
-## 🏆 Education & Certifications
-
-- **Digital Egypt Pioneers Initiative (DEPI)** — Full-Stack .NET Development
-- **Arab Open University (AOU)** — Bachelor of Computer Science
-- **Introduction to Databases** — ITI
-- **Python Programming Basics** — Udacity
-- **ICDL** — Edraak
+### Database Architecture Project
+Database design, ERD diagrams and SQL optimization.
 
 ---
 
-## 🌍 Languages
+# 📌 Profile Highlights
 
-- Arabic — Native
-- English — B1
+<img src="https://komarev.com/ghpvc/?username=Azamsherif&style=for-the-badge&color=8B5CF6"/>
 
----
+<img src="https://img.shields.io/github/followers/Azamsherif?style=for-the-badge&color=06B6D4"/>
 
-## 📌 Profile Highlights
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Azamsherif&style=for-the-badge&color=8B5CF6" />
-<img src="https://img.shields.io/github/followers/Azamsherif?style=for-the-badge&color=06B6D4&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/Azamsherif?style=for-the-badge&color=EC4899&labelColor=111827" />
-
-</div>
+<img src="https://img.shields.io/github/stars/Azamsherif?style=for-the-badge&color=EC4899"/>
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 
-- **Email:** mohamedsherif21101@gmail.com
-- **GitHub:** https://github.com/Azamsherif
-- **LinkedIn:** https://www.linkedin.com/in/your-linkedin-url
-- **Location:** Qusiya, Assiut, Egypt
+Email: mohamedsherif21101@gmail.com  
+GitHub: https://github.com/Azamsherif  
+Location: Assiut, Egypt
 
 ---
 
-<div align="center">
-
-### ✨ Philosophy
-> Clean Code + Strong Backend + Real Problem Solving = Better Software
-
-<br/>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0B0F19,25:111827,55:6D28D9,80:06B6D4,100:F59E0B" />
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0B0F19,25:111827,55:6D28D9,80:06B6D4,100:F59E0B"/>
