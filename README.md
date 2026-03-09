@@ -78,18 +78,17 @@ I’m a passionate **Full Stack .NET Developer** focused on building scalable we
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman"/>
 
 ---
+## 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
+<div align="center">
 
-<p>
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=Azamsherif&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="200" src="https://github-readme-stats.vercel.app/api?username=Azamsherif&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&icon_color=22D3EE&text_color=C9D1D9"/>
+<img height="190" src="https://streak-stats.demolab.com?user=Azamsherif&theme=tokyonight&hide_border=true"/>
 
-<img height="200" src="https://streak-stats.demolab.com?user=Azamsherif&theme=tokyonight&hide_border=true&background=0D1117&ring=EC4899&fire=EC4899&currStreakLabel=22D3EE"/>
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamsherif&layout=compact&theme=tokyonight&hide_border=true"/>
 
-<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamsherif&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=EC4899&text_color=C9D1D9"/>
-
-</p>
+</div>
 
 ---
 
