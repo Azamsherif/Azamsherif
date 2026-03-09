@@ -115,7 +115,7 @@ with clean code and maintainable architecture.
 
 <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamsherif&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>>
+</div>
 
 ---
 
