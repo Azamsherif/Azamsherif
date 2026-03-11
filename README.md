@@ -85,23 +85,32 @@ with clean code and maintainable architecture.
 
 ### Backend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=dotnet,cs,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=dotnet,cs"/>
+<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
 </p>
 
 ### Frontend
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
 </p>
 
 ### Database
 <p align="left">
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-<img src="https://img.shields.io/badge/SQL%20Server-111827?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+</p>
+
+### Cloud
+<p align="left">
+<img src="https://skillicons.dev/icons?i=azure,docker"/>
 </p>
 
 ### Tools
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,docker,postman,linux"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux"/>
 </p>
 ---
 
