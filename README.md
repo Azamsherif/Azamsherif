@@ -10,10 +10,6 @@
 <a href="https://github.com/Azamsherif">
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<a href="https://www.linkedin.com/in/your-linkedin-url">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <br/><br/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=700&lines=ASP.NET+Core+Developer;Web+API+%7C+EF+Core+%7C+SQL+Server;Clean+Architecture+%7C+SOLID+Principles;Always+Building+%2B+Always+Learning" />
@@ -186,7 +182,6 @@ Database design work focused on building a scalable schema for a freelance-platf
 
 - **Email:** mohamedsherif21101@gmail.com
 - **GitHub:** https://github.com/Azamsherif
-- **LinkedIn:** https://www.linkedin.com/in/your-linkedin-url
 - **Location:** Qusiya, Assiut, Egypt
 
 ---
@@ -365,7 +360,6 @@ REST وأنظمة تعتمد على قواعد البيانات. أستمتع ب
 
 - **البريد الإلكتروني:** mohamedsherif21101@gmail.com
 - **GitHub:** https://github.com/Azamsherif
-- **LinkedIn:** https://www.linkedin.com/in/your-linkedin-url
 - **الموقع:** القوصية، أسيوط، مصر
 
 </div>
