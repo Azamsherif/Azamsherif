@@ -50,7 +50,7 @@ with clean code and maintainable architecture.
 
 ---
 
-## 🛠 Tech Arsenal
+## 🛠 Tech Arsenal | المهارات التقنية
 
 ### Backend
 <p align="left">
@@ -66,7 +66,7 @@ with clean code and maintainable architecture.
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
 </p>
 
-### Database
+### Database | قواعد البيانات
 <p align="left">
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
@@ -77,14 +77,14 @@ with clean code and maintainable architecture.
 <img src="https://skillicons.dev/icons?i=azure,docker"/>
 </p>
 
-### Tools
+### Tools | الأدوات
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux"/>
 </p>
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics | إحصائيات GitHub
 
 <div align="center">
 
@@ -98,7 +98,7 @@ with clean code and maintainable architecture.
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity | النشاط والمساهمات
 
 <div align="center">
 
@@ -166,7 +166,7 @@ Database design work focused on building a scalable schema for a freelance-platf
 
 ---
 
-## 📌 Profile Highlights
+## 📌 Profile Highlights | لمحات سريعة
 
 <div align="center">
 
@@ -190,87 +190,22 @@ Database design work focused on building a scalable schema for a freelance-platf
 
 ## 👨‍💻 نبذة عني
 
-```csharp
-public class MohamedSherif
-{
-    public string FullName => "محمد شريف كامل حسن";
-    public string Title => "مطوّر .NET Full-Stack مبتدئ";
-    public string Location => "القوصية، أسيوط، مصر";
-    public string Education => "مسار DEPI لتطوير .NET Full-Stack";
-}
-```
+<div dir="rtl" align="right">
 
-<p dir="rtl" align="right">
+- **الاسم الكامل:** محمد شريف كامل حسن
+- **المسمّى:** مطوّر .NET Full-Stack مبتدئ
+- **الموقع:** القوصية، أسيوط، مصر
+- **التعليم:** مسار DEPI لتطوير .NET Full-Stack
+
 أنا مطوّر .NET Full-Stack مبتدئ، ولدي أساس قوي في بناء تطبيقات ويب حديثة وواجهات برمجية
 REST وأنظمة تعتمد على قواعد البيانات. أستمتع بتحويل الأفكار إلى حلول عملية قابلة للتوسع
 باستخدام كود نظيف ومعمارية سهلة الصيانة.
-</p>
-
-<div dir="rtl" align="right">
 
 - 🚀 أركّز على تطوير الـ Backend باستخدام **ASP.NET Core**
 - 🧠 مهتم جدًا بـ **Clean Code** و**SOLID** والتصميم القابل للتوسع
 - 🗄 أمتلك خبرة جيدة مع **SQL Server** وتصميم قواعد البيانات وكتابة الاستعلامات بكفاءة
 - 🎨 أستطيع بناء واجهات متجاوبة باستخدام **HTML, CSS, JavaScript, Bootstrap**
 - 🐳 لدي معرفة بـ **Docker** وأساليب التطوير الحديثة
-
-</div>
-
----
-
-## 🛠 المهارات التقنية
-
-### Backend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=dotnet,cs"/>
-<img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity%20Framework-68217A?style=for-the-badge&logo=.net&logoColor=white"/>
-<img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
-</p>
-
-### Frontend
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap"/>
-</p>
-
-### قواعد البيانات
-<p align="left">
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-</p>
-
-### Cloud
-<p align="left">
-<img src="https://skillicons.dev/icons?i=azure,docker"/>
-</p>
-
-### الأدوات
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,linux"/>
-</p>
-
----
-
-## 📊 إحصائيات GitHub
-
-<div align="center">
-
-<img height="190" src="https://github-readme-stats.vercel.app/api?username=Azamsherif&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="190" src="https://streak-stats.demolab.com?user=Azamsherif&theme=tokyonight&hide_border=true"/>
-
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azamsherif&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📈 النشاط والمساهمات
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Azamsherif&bg_color=0d1117&color=22d3ee&line=06b6d4&point=ec4899&area=true&hide_border=true" />
 
 </div>
 
@@ -337,18 +272,6 @@ REST وأنظمة تعتمد على قواعد البيانات. أستمتع ب
 
 - العربية — اللغة الأم
 - الإنجليزية — مستوى B1
-
-</div>
-
----
-
-## 📌 لمحات سريعة
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Azamsherif&style=for-the-badge&color=8B5CF6" />
-<img src="https://img.shields.io/github/followers/Azamsherif?style=for-the-badge&color=06B6D4&labelColor=111827" />
-<img src="https://img.shields.io/github/stars/Azamsherif?style=for-the-badge&color=EC4899&labelColor=111827" />
 
 </div>
 
