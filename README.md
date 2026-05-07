@@ -50,7 +50,7 @@ with clean code and maintainable architecture.
 
 ---
 
-## 🛠 Tech Arsenal | المهارات التقنية
+## 🛠 Tech Arsenal | الأدوات التقنية
 
 ### Backend
 <p align="left">
@@ -294,7 +294,7 @@ REST وأنظمة تعتمد على قواعد البيانات. أستمتع ب
 ### ✨ Philosophy | الفلسفة
 > Clean Code + Strong Backend + Real Problem Solving = Better Software
 >
-> الكود النظيف + باك إند قوي + حل مشاكل حقيقي = برمجيات أفضل
+> الكود النظيف + واجهة خلفية قوية + حل مشاكل حقيقي = برمجيات أفضل
 
 <br/>
 
